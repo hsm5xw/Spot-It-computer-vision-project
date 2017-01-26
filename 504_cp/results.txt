@@ -1,0 +1,27 @@
+
+dataset: cards
+  cards_results/001_002.png :: 1 :: 
+  cards_results/001_003.png :: 0 :: 
+  cards_results/001_004.png :: 1 :: 
+  cards_results/001_005.png :: 1 :: 
+  cards_results/002_003.png :: 1 :: 
+  cards_results/002_004.png :: 1 :: 
+  cards_results/002_005.png :: 1 :: 
+  cards_results/003_004.png :: 1 :: 
+  cards_results/003_005.png :: 1 :: 
+  cards_results/004_005.png :: 1 :: 
+
+dataset: images
+  images_results/001_002.png :: 1 :: 
+  images_results/001_003.png :: 1 :: 
+  images_results/001_004.png :: 1 :: 
+  images_results/001_005.png :: 1 :: 
+  images_results/002_003.png :: 1 :: 
+  images_results/002_004.png :: 1 :: 
+  images_results/002_005.png :: 1 :: 
+  images_results/003_004.png :: 1 :: 
+  images_results/003_005.png :: 1 :: 
+  images_results/004_005.png :: 1 :: 
+
+
+Summary Results: 19 out of 20 for a performance score of 10
